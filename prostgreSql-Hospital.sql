@@ -28,16 +28,7 @@ CREATE TABLE Paciente (
     altura NUMERIC(4,2) NOT NULL,
     peso NUMERIC(5,2) NOT NULL
 );
-Se quiser, posso atualizar todo o ba
 
-
-
-
-
-
-
-
-);
 
 CREATE TABLE Consulta (
     id SERIAL PRIMARY KEY,
